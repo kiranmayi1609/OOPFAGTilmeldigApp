@@ -1,4 +1,5 @@
 ﻿//Iteration1 arv
+
 Console.Write("Angive skolenavn :");
 string schoolnavn = Console.ReadLine();
 Console.Write("Angiv Hoverforløb : ");
